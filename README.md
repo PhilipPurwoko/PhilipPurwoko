@@ -15,13 +15,8 @@ Nama saya Philip Purwoko, saya adalah mahasiswa di Universitas Sebelas Maret, Su
 ## Scientific Programming
 <p align="center">
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-	<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 	<img src="https://img.shields.io/badge/jupyter-%23000000.svg?&style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter Notebook">
 	<img src="https://img.shields.io/badge/Pandas%20-%2314354C.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-	<img src="https://img.shields.io/badge/numpy%20-%2314354C.svg?&style=for-the-badge&logo=NumPy&logoColor=white" alt="Numpy">
-	<img src="https://img.shields.io/badge/matplotlib%20-%2314354C.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib">
-	<img src="https://img.shields.io/badge/seaborn%20-%2314354C.svg?&style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
-	<img src="https://img.shields.io/badge/sklearn-%23107C10.svg?&style=for-the-badge&logo=sklearn&logoColor=white" alt="Sklearn">
 	<img src="https://img.shields.io/badge/tensorflow-%23000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Tensorflow">
 </p>
 
