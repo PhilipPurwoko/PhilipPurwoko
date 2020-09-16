@@ -26,11 +26,8 @@ Nama saya Philip Purwoko, saya adalah mahasiswa di Universitas Sebelas Maret, Su
 	<img src="https://img.shields.io/badge/tensorflow-%23000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Tensorflow">
 </p>
 
-# Hobi
- - [Pemrograman](https://github.com/PhilipPurwoko)
- - [Seni Digital](https://instagram.com/philippurwoko)
- - Membaca
- - [Menulis](https://medium.com/@PhilipPurwoko)
+# Rutinitas
+Hal utama dalam keseharian saya adalah programing. Saya mempelajar pemrograman dari berbagai sumber baik dengan membaca di blog dan menonton video di Youtube, baik pembahasan teknis (tutorial) maupun non teknis (ide). Disamping itu, saya juga membiasakan diri untuk menulis artikel di medium, dengan tujuan untuk mengajarkan kembali apa yang telah saya dapatkan menggunakan Bahasa Indonesia untuk mempermudah akses informasi serta untuk menantang diri saya tentang sejauh mana saya mendalami materi dan melatih cara saya untuk menyampaikan informasi. Selatin itu, saya punya hobi sampingan yang saya lakukan saat ingin refreshing yaitu membuat seni digital
 
 # Sosial Media 
 
