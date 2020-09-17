@@ -1,8 +1,6 @@
 # Hi 👋 
 
-Nama saya Philip Purwoko, saya adalah mahasiswa di Universitas Sebelas Maret, Surakarta. Saya tinggal di Kabupaten Magelang, Jawa Tengah. Saya mengambil program S1 Sarjana Pendidikan Teknik Informatika dan Komputer (PTIK). Dalam jurusan saya, saya memiliki minat khusus dalam bidang pemrograman khususnya mengenai machine learning dan artificial intelligence.
-
-Hal utama dalam keseharian saya adalah programing. Saya mempelajar pemrograman dari berbagai sumber baik dengan membaca di blog dan menonton video di Youtube, baik pembahasan teknis (tutorial) maupun non teknis (ide). Disamping itu, saya juga membiasakan diri untuk menulis artikel di medium, dengan tujuan untuk mengajarkan kembali apa yang telah saya dapatkan menggunakan Bahasa Indonesia untuk mempermudah akses informasi serta untuk menantang diri saya tentang sejauh mana saya mendalami materi dan melatih cara saya untuk menyampaikan informasi. Selatin itu, saya punya hobi sampingan yang saya lakukan saat ingin refreshing yaitu membuat seni digital
+Nama Saya Philip Purwoko, Saya adalah mahasiswa di Universitas Sebelas Maret, Surakarta. Saya tinggal di Kabupaten Magelang, Jawa Tengah. Saya mengambil program S1 Sarjana Pendidikan Teknik Informatika dan Komputer (PTIK). Saya memiliki peminatan dalam bidang pemrograman khususnya mengenai Machine Learning dan Artificial Intelligence.
 
 # Kemampuan
 
