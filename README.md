@@ -2,7 +2,7 @@
 
 Nama Saya Philip Purwoko, Saya adalah mahasiswa di Universitas Sebelas Maret, Surakarta. Saya tinggal di Kabupaten Magelang, Jawa Tengah. Saya mengambil program S1 Sarjana Pendidikan Teknik Informatika dan Komputer (PTIK). Saya memiliki peminatan dalam bidang pemrograman khususnya mengenai Machine Learning dan Artificial Intelligence.
 
-# Kemampuan
+## Kemampuan
 
 <p align="center">
 	<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
@@ -14,7 +14,7 @@ Nama Saya Philip Purwoko, Saya adalah mahasiswa di Universitas Sebelas Maret, Su
 	<img src="https://img.shields.io/badge/tensorflow-%23000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Tensorflow">
 </p>
 
-# Sosial Media 
+## Sosial Media 
 
 <p align="center">
     <a href="https://github.com/PhilipPurwoko"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
