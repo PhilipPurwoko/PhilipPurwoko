@@ -5,21 +5,9 @@ Nama Saya Philip Purwoko, Saya adalah mahasiswa di Universitas Sebelas Maret, Su
 # Kemampuan
 
 <p align="center">
-	<strong>Web Development</strong>
-</p>
-
-<p align="center">
 	<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
 	<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="ExpressJS">
-	<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt = "Bootstrap">
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</p>
-
-<p align="center">
-	<strong>Scientific Programming</strong>
-</p>
-<p align="center">
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
 	<img src="https://img.shields.io/badge/jupyter-%23000000.svg?&style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter Notebook">
 	<img src="https://img.shields.io/badge/Pandas%20-%2314354C.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
