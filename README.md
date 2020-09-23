@@ -1,12 +1,13 @@
-# Hi 👋 
+# Hello World ! 👋 
 
-Nama Saya Philip Purwoko, Saya adalah mahasiswa di Universitas Sebelas Maret, Surakarta. Saya tinggal di Kabupaten Magelang, Jawa Tengah. Saya mengambil program S1 Sarjana Pendidikan Teknik Informatika dan Komputer (PTIK). Saya memiliki peminatan dalam bidang pemrograman khususnya mengenai Machine Learning dan Artificial Intelligence.
+Nama Saya Philip Purwoko,
+
+Saya mahasiswa di Universitas Sebelas Maret, Surakarta. Saya tinggal di Kabupaten Magelang, Jawa Tengah. Saya mengambil program S1 Sarjana Pendidikan Teknik Informatika dan Komputer (<a src="https://ptik.fkip.uns.ac.id/">PTIK</a>). Saya memiliki peminatan dalam bidang pemrograman khususnya mengenai Machine Learning dan Artificial Intelligence dengan bahasa pemrograman Python. Serta Saya mengembangkan kemampuan backend pembangunan website untuk deployment Machine Learning model dan aplikasi menggunakan Nodejs.
 
 ## Kemampuan
 
 <p align="center">
 	<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-	<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="ExpressJS">
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
 	<img src="https://img.shields.io/badge/jupyter-%23000000.svg?&style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter Notebook">
@@ -24,3 +25,9 @@ Nama Saya Philip Purwoko, Saya adalah mahasiswa di Universitas Sebelas Maret, Su
     <a href="mailto:philippurwoko123@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://instagram.com/philippurwoko"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
+
+## Artikel Terbaru
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/1" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/2" alt="Recent Article 0">
