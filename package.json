@@ -1,5 +1,5 @@
 {
-  "name": "github-readme-medium",
+  "name": "PhilipPurwoko",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omidnikrah/github-readme-medium.git"
+    "url": "git+https://github.com/PhilipPurwoko/PhilipPurwoko.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/omidnikrah/github-readme-medium/issues"
+    "url": "https://github.com/PhilipPurwoko/PhilipPurwoko/issues"
   },
-  "homepage": "https://github.com/omidnikrah/github-readme-medium#readme",
+  "homepage": "https://github.com/PhilipPurwoko/PhilipPurwoko#readme",
   "dependencies": {
     "node-fetch": "^2.6.0",
     "rss-parser": "^3.9.0"
