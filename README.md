@@ -1,6 +1,9 @@
-# Hi 👋 
+# 👋 Hello !
 
-Nama Saya Philip Purwoko, Saya adalah mahasiswa di Universitas Sebelas Maret, Surakarta. Saya tinggal di Kabupaten Magelang, Jawa Tengah. Saya mengambil program S1 Sarjana Pendidikan Teknik Informatika dan Komputer (PTIK). Saya memiliki peminatan dalam bidang pemrograman khususnya mengenai Machine Learning dan Artificial Intelligence.
+Nama Saya Philip Purwoko,
+
+Saya mahasiswa di <a href="https://uns.ac.id/">Universitas Sebelas Maret</a>, Surakarta. Saya tinggal di Kabupaten Magelang, Jawa Tengah. Saya mengambil program S1 Sarjana Pendidikan Teknik Informatika dan Komputer (<a href="https://ptik.fkip.uns.ac.id/">PTIK</a>). Saya memiliki peminatan dalam bidang pemrograman khususnya mengenai Machine Learning dan Artificial Intelligence dengan bahasa pemrograman Python. Serta Saya mengembangkan kemampuan backend pembangunan website untuk deployment Machine Learning model dan aplikasi menggunakan Nodejs.
+
 
 ## Kemampuan
 
@@ -27,10 +30,6 @@ Nama Saya Philip Purwoko, Saya adalah mahasiswa di Universitas Sebelas Maret, Su
 
 ## Artikel Terbaru
 
-[![Philip Purwoko](https://github-readme-medium.vercel.app/?username=PhilipPurwoko&limit=3)](https://medium.com/@PhilipPurwoko)
-=======
->>>>>>> parent of b885704... Update README.md
-=======
->>>>>>> parent of b885704... Update README.md
-=======
->>>>>>> parent of b885704... Update README.md
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@philippurwoko/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philippurwoko/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@philippurwoko/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philippurwoko/1" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@philippurwoko/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philippurwoko/2" alt="Recent Article 0">
