@@ -25,9 +25,12 @@ Nama Saya Philip Purwoko, Saya adalah mahasiswa di Universitas Sebelas Maret, Su
     <a href="https://instagram.com/philippurwoko"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## Artikel Terbaru
 
 [![Philip Purwoko](https://github-readme-medium.vercel.app/?username=PhilipPurwoko&limit=3)](https://medium.com/@PhilipPurwoko)
+=======
+>>>>>>> parent of b885704... Update README.md
 =======
 >>>>>>> parent of b885704... Update README.md
