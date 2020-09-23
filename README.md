@@ -28,6 +28,4 @@ Saya mahasiswa di Universitas Sebelas Maret, Surakarta. Saya tinggal di Kabupate
 
 ## Artikel Terbaru
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/1" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PhilipPurwoko/2" alt="Recent Article 0">
+[![Philip Purwoko](https://github-readme-medium.vercel.app/?username=PhilipPurwoko&limit=3)](https://medium.com/@PhilipPurwoko)
