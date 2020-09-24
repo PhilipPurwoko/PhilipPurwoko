@@ -9,11 +9,12 @@ Saya mahasiswa di <a href="https://uns.ac.id/">Universitas Sebelas Maret</a>, Su
 
 <p align="center">
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-	<img src="https://img.shields.io/badge/jupyter-%23000000.svg?&style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter Notebook">
-	<img src="https://img.shields.io/badge/tensorflow-%23000000.svg?&style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Tensorflow">
-	<img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+	<img src="https://img.shields.io/badge/jupyter-e6edec.svg?&style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter Notebook">
+	<img src="https://img.shields.io/badge/tensorflow-f5a61d.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
+	<img src="https://img.shields.io/badge/pycharm-teal.svg?&style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
 	<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+	<img src="https://img.shields.io/badge/vscode-4287f5.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
 ## 📺 Sosial Media 
