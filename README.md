@@ -3,13 +3,13 @@
 
 Saya mahasiswa di <a href="https://uns.ac.id/">Universitas Sebelas Maret</a>, Surakarta. Saya mengambil program S1 Sarjana Pendidikan Teknik Informatika dan Komputer (<a href="https://ptik.fkip.uns.ac.id/">PTIK</a>).  Saya tinggal di Kabupaten Magelang, Jawa Tengah, :id: Indonesia. Saya menekuni bidang pemrograman khususnya mengenai Machine Learning dan Artificial Intelligence dengan bahasa pemrograman Python. Saya juga mengembangkan kemampuan backend web development untuk deployment aplikasi.
 
-<hr>
+
 
 ### 📕 Artikel Terbaru
 - [Mari Berkenalan Dengan Machine Learning](https://medium.com/easyread/mari-berkenalan-dengan-machine-learning-b4778ff2914a)
 - [Membuat Proyek Machine Learning dengan Python — Part 1](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-1-8e8a03095636)
  - [Membuat Proyek Machine Learning dengan Python — Part 2](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-2-5a3b33d6aca6)
-<hr>
+
 
 ### 📺 Sosial Media 
 
