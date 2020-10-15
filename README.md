@@ -1,14 +1,12 @@
 
-# :wave: Hello !
+# :wave: Halo !
 **Tentang saya**
 * Mahasiswa di <a href="https://uns.ac.id/">Universitas Sebelas Maret</a>, Surakarta
-* S1 Sarjana Pendidikan Teknik Informatika dan Komputer (<a href="https://ptik.fkip.uns.ac.id/">PTIK</a>)
-* Tinggal di Kabupaten Magelang, Jawa Tengah, :id: Indonesia
+* Sarjana Pendidikan Teknik Informatika dan Komputer (<a href="https://ptik.fkip.uns.ac.id/">PTIK</a>)
 
-**Specializaiton**
-* Machine Learning dan Artificial Intelligence
-* Backend web development
-
+**Spesialisasi**
+* Machine Learning dan Artificial Intelligence (Python)
+* Backend web development (Javascript)
 
 ### :page_facing_up: Artikel
 - [Mari Berkenalan Dengan Machine Learning](https://medium.com/easyread/mari-berkenalan-dengan-machine-learning-b4778ff2914a)
