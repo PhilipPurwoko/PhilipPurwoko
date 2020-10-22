@@ -1,14 +1,18 @@
 
 # :wave: Halo !
-**Tentang saya**
+**:nerd_face: Tentang saya**
 * Mahasiswa di <a href="https://uns.ac.id/">Universitas Sebelas Maret</a>, Surakarta
 * Sarjana Pendidikan Teknik Informatika dan Komputer (<a href="https://ptik.fkip.uns.ac.id/">PTIK</a>)
 
-**Spesialisasi**
+**:computer: Spesialisasi**
 * Machine Learning dan Artificial Intelligence (Python)
 * Backend web development (Javascript)
 
-### :page_facing_up: Artikel
+## :page_facing_up: Sertifikat
+- [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp (8 Agustus 2020)
+- [Dasar Visualisasi Data](https://www.dicoding.com/users/563914/academies) - Dicoding (23 Juni 2020 - 23 Juni 2023)
+
+### :clipboard: Artikel
 - [Mari Berkenalan Dengan Machine Learning](https://medium.com/easyread/mari-berkenalan-dengan-machine-learning-b4778ff2914a)
 - [Membuat Proyek Machine Learning dengan Python — Part 1](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-1-8e8a03095636)
 - [Membuat Proyek Machine Learning dengan Python — Part 2](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-2-5a3b33d6aca6)
