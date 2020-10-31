@@ -8,11 +8,12 @@
 * Machine Learning dan Artificial Intelligence (Python)
 * Backend web development (Javascript)
 
-**:page_facing_up: [Curriculum Vitae (CV)](https://philippurwoko.github.io/)**
+:page_facing_up: My personal **[Curriculum Vitae (CV)](https://philippurwoko.github.io/)** website
 
 ## :trophy: Sertifikat
 - [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp (8 Agustus 2020)
 - [Dasar Visualisasi Data](https://www.dicoding.com/users/563914/academies) - Dicoding (23 Juni 2020 - 23 Juni 2023)
+- Submisi Single Page Application - [Code Highlighter](https://code-highlighter.vercel.app) - Departement Riset dan Teknologi Himpunan Mahasiswa Teknik Informatika PENS
 
 ### :newspaper: Artikel
 - [Mari Berkenalan Dengan Machine Learning](https://medium.com/easyread/mari-berkenalan-dengan-machine-learning-b4778ff2914a)
