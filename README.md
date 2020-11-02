@@ -8,18 +8,17 @@
 * Machine Learning dan Artificial Intelligence (Python)
 * Backend web development (Javascript)
 
-:page_facing_up: My personal **[Curriculum Vitae (CV)](https://philippurwoko.github.io/)** website
+:page_facing_up: **[Curriculum Vitae (CV)](https://philippurwoko.github.io/)**
 
 ## :trophy: Sertifikat
 - [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp (8 Agustus 2020)
 - [Dasar Visualisasi Data](https://www.dicoding.com/users/563914/academies) - Dicoding (23 Juni 2020 - 23 Juni 2023)
-- Submisi Single Page Application - [Code Highlighter](https://code-highlighter.vercel.app) - Departement Riset dan Teknologi Himpunan Mahasiswa Teknik Informatika PENS
+- Submisi Single Page Application - [Code Highlighter](https://code-highlighter.vercel.app) - Departement Riset dan Teknologi Himpunan Mahasiswa Teknik Informatika PENS (4 Oktober 2020)
 
-### :newspaper: Artikel
-- [Mari Berkenalan Dengan Machine Learning](https://medium.com/easyread/mari-berkenalan-dengan-machine-learning-b4778ff2914a)
-- [Membuat Proyek Machine Learning dengan Python — Part 1](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-1-8e8a03095636)
+### :newspaper: Artikel Terbaru
+- [Caraku Mempelajari Vue js dan Vuex Dalam 14 Hari](https://medium.com/easyread/caraku-mempelajari-vue-js-dan-vuex-dalam-14-hari-9b013361af88)
 - [Membuat Proyek Machine Learning dengan Python — Part 2](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-2-5a3b33d6aca6)
-
+- [Membuat Proyek Machine Learning dengan Python — Part 1](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-1-8e8a03095636)
 
 ### :tv: Sosial Media 
 
