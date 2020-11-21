@@ -1,14 +1,7 @@
 
-# :wave: Halo !
-**:nerd_face: Tentang saya**
-* Mahasiswa di <a href="https://uns.ac.id/">Universitas Sebelas Maret</a>, Surakarta
-* Sarjana Pendidikan Teknik Informatika dan Komputer (<a href="https://ptik.fkip.uns.ac.id/">PTIK</a>)
+# :wave: :nerd_face: Halo !
 
-**:computer: Spesialisasi**
-* Machine Learning dan Artificial Intelligence (Python)
-* Backend web development (Javascript)
-
-:page_facing_up: **[Curriculum Vitae (CV)](https://philippurwoko.github.io/)**
+:page_facing_up: **[My CV Website](https://philippurwoko.github.io/)**
 
 ## :trophy: Sertifikat
 - [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp (8 Agustus 2020)
