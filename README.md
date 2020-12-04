@@ -1,7 +1,6 @@
-
 # :wave: :nerd_face: Halo !
 
-:page_facing_up: **[My CV Website](https://philippurwoko.github.io/)**
+:page_facing_up: **[My Personal Website](https://philippurwoko.github.io/)**
 
 ## :trophy: Sertifikat
 - [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp (8 Agustus 2020)
@@ -15,13 +14,23 @@
 
 ### :tv: Sosial Media 
 
-<p align="center">
-    <a href="https://stackoverflow.com/users/11811336/philip-purwoko"><img src="https://img.shields.io/badge/Stackoverflow--black?style=social&logo=stackoverflow" alt="Stackoverflow"></a>
-    <a href="https://medium.com/@philippurwoko"><img src="https://img.shields.io/badge/Medium--black?style=social&logo=medium" alt="Instagram"></a>
-    <a href="https://twitter.com/PurwokoPhilip"><img src="https://img.shields.io/twitter/follow/PurwokoPhilip?label=Twitter&style=social" alt="Twitter"></a>
-    <a href="https://facebook.com/philip.purwoko"><img src="https://img.shields.io/badge/Facebook--blue?style=social&logo=facebook" alt="Facebook"></a>
-    <a href="https://instagram.com/philippurwoko"><img src="https://img.shields.io/badge/Instagram--red?style=social&logo=instagram" alt="Instagram"></a>
-    <a href="mailto:philippurwoko123@gmail.com"><img src="https://img.shields.io/badge/gmail--red?style=social&logo=gmail" alt="Whatsapp"></a>
+<p align='center'>
+    <a href="https://medium.com/@philippurwoko"><img title="Medium" height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
+    <a href="https://dev.to/philippurwoko"><img title="Dev.to Community" height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+	<a href="https://stackoverflow.com/users/11811336/philip-purwoko"><img title="Stackoverflow" height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/PurwokoPhilip"><img title="Twitter" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/philip.purwoko"><img title="Facebook" height="30" src="https://www.flaticon.com/svg/static/icons/svg/124/124010.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/philippurwoko/"><img title="Instagram" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/philip-purwoko-24a635157/"><img title="Linkedin" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 
+### :heart_decoration: Swag
+
+<p align="center">
+    <img title="Artic Code Vault Contributor" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height=30 alt="Artic Code Vault Contributor">&nbsp;&nbsp;
+    <img title="Github Developer Program Member" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height=30 alt="Github Developer Program Member">&nbsp;&nbsp;
+    <img title="Github PRO" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height=30 alt="Github PRO">&nbsp;&nbsp;
+    <img title="National Data Science Challenge 2020" src="badge/ndsc2020.png" height=30 alt="NDSC 2020">&nbsp;&nbsp;
+    <img title="Hacktoberfest 2020" src="badge/hacktoberfest.png" height=30 alt="Hacktoberfest 2020">
+</p>
