@@ -15,7 +15,7 @@
 ### :tv: Sosial Media 
 
 <p align='center'>
-    <a href="https://medium.com/@philippurwoko"><img title="Medium" height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
+    <a href="https://philippurwoko.medium.com/"><img title="Medium" height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
     <a href="https://dev.to/philippurwoko"><img title="Dev.to Community" height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 	<a href="https://stackoverflow.com/users/11811336/philip-purwoko"><img title="Stackoverflow" height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/PurwokoPhilip"><img title="Twitter" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
