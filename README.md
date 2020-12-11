@@ -8,9 +8,9 @@
 - Submisi Single Page Application - [Code Highlighter](https://code-highlighter.vercel.app) - Departement Riset dan Teknologi Himpunan Mahasiswa Teknik Informatika PENS (4 Oktober 2020)
 
 ### :newspaper: Artikel Terbaru
+- [How to Make Mask Detection AI Using Python in 6 Steps](https://philippurwoko.medium.com/how-to-make-mask-detection-ai-using-python-in-6-steps-157696e84871)
 - [Menggunakan Artificial Intelligence Untuk Mendeteksi Pemakaian Masker](https://medium.com/easyread/menggunakan-artificial-intelligence-untuk-mendeteksi-pemakaian-masker-b0564732c4ee)
 - [Caraku Mempelajari Vue js dan Vuex Dalam 14 Hari](https://medium.com/easyread/caraku-mempelajari-vue-js-dan-vuex-dalam-14-hari-9b013361af88)
-- [Membuat Proyek Machine Learning dengan Python — Part 2](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-2-5a3b33d6aca6)
 
 ### :tv: Sosial Media 
 
