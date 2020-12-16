@@ -1,4 +1,4 @@
-# :wave: :nerd_face: Halo !
+# :nerd_face: Hello ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 :page_facing_up: **[My Personal Website](https://philippurwoko.github.io/)**
 
