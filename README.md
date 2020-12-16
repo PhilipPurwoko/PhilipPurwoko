@@ -5,7 +5,6 @@
 ## :trophy: Sertifikat
 - [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp (8 Agustus 2020)
 - [Dasar Visualisasi Data](https://www.dicoding.com/users/563914/academies) - Dicoding (23 Juni 2020 - 23 Juni 2023)
-- Submisi Single Page Application - [Code Highlighter](https://code-highlighter.vercel.app) - Departement Riset dan Teknologi Himpunan Mahasiswa Teknik Informatika PENS (4 Oktober 2020)
 
 ### :newspaper: Artikel Terbaru
 - [How to Make Mask Detection AI Using Python in 6 Steps](https://philippurwoko.medium.com/how-to-make-mask-detection-ai-using-python-in-6-steps-157696e84871)
