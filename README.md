@@ -1,7 +1,3 @@
-# :nerd_face: Hello ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-:page_facing_up: **[My Personal Website](https://philippurwoko.github.io/)**
-
 ## :trophy: Sertifikat
 - [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp (8 Agustus 2020)
 - [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/RVZK48GDEPD5) - Dicoding (23 Juni 2020 - 23 Juni 2023)
