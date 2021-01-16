@@ -1,4 +1,4 @@
-## :trophy: Sertifikat
+## :trophy: Sertifikasi
 - [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp (8 Agustus 2020)
 - [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/RVZK48GDEPD5) - Dicoding (23 Juni 2020 - 23 Juni 2023)
 - [Belajar Membangun LINE Chatbot](https://www.dicoding.com/certificates/2VX3NORW4XYQ) - Dicoding (27 Desember 2020 - 27 Desember 2023)
