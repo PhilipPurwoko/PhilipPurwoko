@@ -1,7 +1,8 @@
 ## :trophy: Sertifikasi
-- [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp (8 Agustus 2020)
-- [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/RVZK48GDEPD5) - Dicoding (23 Juni 2020 - 23 Juni 2023)
-- [Belajar Membangun LINE Chatbot](https://www.dicoding.com/certificates/2VX3NORW4XYQ) - Dicoding (27 Desember 2020 - 27 Desember 2023)
+- [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp
+- [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/RVZK48GDEPD5) - Dicoding (valid until 23 Juni 2023)
+- [Belajar Membangun LINE Chatbot](https://www.dicoding.com/certificates/2VX3NORW4XYQ) - Dicoding (valid until 27 Desember 2023)
+- [Operate and Manage Cloud Server](https://xuecdn2.aliyunedu.net/img_73f8c5b12a599efb0156d2fd1aaf6346.png) - Apsara Clouder (valid until 28 January 2023)
 
 ### :newspaper: Artikel Terbaru
 - [How to Make Mask Detection AI Using Python in 6 Steps](https://philippurwoko.medium.com/how-to-make-mask-detection-ai-using-python-in-6-steps-157696e84871)
