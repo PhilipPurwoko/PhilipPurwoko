@@ -20,3 +20,5 @@
     <a href="https://www.instagram.com/philippurwoko/"><img title="Instagram" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/philip-purwoko-24a635157/"><img title="Linkedin" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipPurwoko&layout=compact)](https://github.com/PhilipPurwoko/PhilipPurwoko)
