@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipPurwoko&layout=compact)](https://github.com/PhilipPurwoko/PhilipPurwoko)
-
 ## :trophy: Sertifikat
 - [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp
 - [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/RVZK48GDEPD5) - Dicoding (valid until 23 Juni 2023)
