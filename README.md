@@ -5,9 +5,9 @@
 - [Operate and Manage Cloud Server](https://xuecdn2.aliyunedu.net/img_73f8c5b12a599efb0156d2fd1aaf6346.png) - Apsara Clouder (valid until 28 January 2023)
 
 ### :newspaper: Artikel Terbaru
+- [How To Deploy Digit Recognition Model Into Drawing App](https://medium.com/analytics-vidhya/how-to-deploy-digit-recognition-model-into-drawing-app-6e59f82a199c)
 - [How to Make Mask Detection AI Using Python in 6 Steps](https://philippurwoko.medium.com/how-to-make-mask-detection-ai-using-python-in-6-steps-157696e84871)
 - [Menggunakan Artificial Intelligence Untuk Mendeteksi Pemakaian Masker](https://medium.com/easyread/menggunakan-artificial-intelligence-untuk-mendeteksi-pemakaian-masker-b0564732c4ee)
-- [Caraku Mempelajari Vue js dan Vuex Dalam 14 Hari](https://medium.com/easyread/caraku-mempelajari-vue-js-dan-vuex-dalam-14-hari-9b013361af88)
 
 ### :tv: Sosial Media 
 
