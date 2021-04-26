@@ -4,6 +4,7 @@
 - [Belajar Membangun LINE Chatbot](https://www.dicoding.com/certificates/2VX3NORW4XYQ) - Dicoding (valid until 27 December 2023)
 - [Operate and Manage Cloud Server](https://xuecdn2.aliyunedu.net/img_73f8c5b12a599efb0156d2fd1aaf6346.png) - Apsara Clouder (valid until 28 January 2023)
 - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/JMZVML21JZN9) - Dicoding (valid until 06 April 2024)
+- [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/6RPNK0QORP2M) - Dicoding (valid until 25 April 2024)
 
 ### :newspaper: Artikel Terbaru
 - [How To Deploy Digit Recognition Model Into Drawing App](https://medium.com/analytics-vidhya/how-to-deploy-digit-recognition-model-into-drawing-app-6e59f82a199c)
