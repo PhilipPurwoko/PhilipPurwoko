@@ -1,9 +1,8 @@
 ## :trophy: Sertifikat
-- [Data Analysis with Python](https://freecodecamp.org/certification/philippurwoko/data-analysis-with-python-v7) - Freecodecamp
-- [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/RVZK48GDEPD5) - Dicoding (valid until 23 June 2023)
+- [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/EYX4RNYD6XDL) - Dicoding (valid until 20 May 2024)
 - [Belajar Membangun LINE Chatbot](https://www.dicoding.com/certificates/2VX3NORW4XYQ) - Dicoding (valid until 27 December 2023)
-- [Operate and Manage Cloud Server](https://xuecdn2.aliyunedu.net/img_73f8c5b12a599efb0156d2fd1aaf6346.png) - Apsara Clouder (valid until 28 January 2023)
 - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/JMZVML21JZN9) - Dicoding (valid until 06 April 2024)
+- [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/RVZK48GDEPD5) - Dicoding (valid until 23 June 2023)
 - [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/6RPNK0QORP2M) - Dicoding (valid until 25 April 2024)
 
 ### :newspaper: Artikel Terbaru
