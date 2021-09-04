@@ -1,17 +1,14 @@
-## :trophy: Sertifikat
-- [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/EYX4RNYD6XDL) - Dicoding (valid until 20 May 2024)
-- [Belajar Membangun LINE Chatbot](https://www.dicoding.com/certificates/2VX3NORW4XYQ) - Dicoding (valid until 27 December 2023)
-- [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/JMZVML21JZN9) - Dicoding (valid until 06 April 2024)
-- [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/RVZK48GDEPD5) - Dicoding (valid until 23 June 2023)
-- [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/6RPNK0QORP2M) - Dicoding (valid until 25 April 2024)
+## :trophy: Certificates
+- [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates/4EXGY2JK9XRL) - Dicoding
+- [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/certificates/EYX4RNYD6XDL) - Dicoding
+- [Cloud Practitioner Essentials](https://www.dicoding.com/certificates/JMZVML21JZN9) - Amazon Cloud and Back-End Developer Scholarship Program
 
-### :newspaper: Artikel Terbaru
+### :newspaper: My Articles
+- [Belajar Fundamental Machine Learning Untuk Pemula](https://medium.com/easyread/mari-berkenalan-dengan-machine-learning-b4778ff2914a)
 - [How To Deploy Digit Recognition Model Into Drawing App](https://medium.com/analytics-vidhya/how-to-deploy-digit-recognition-model-into-drawing-app-6e59f82a199c)
 - [How to Make Mask Detection AI Using Python in 6 Steps](https://philippurwoko.medium.com/how-to-make-mask-detection-ai-using-python-in-6-steps-157696e84871)
-- [Menggunakan Artificial Intelligence Untuk Mendeteksi Pemakaian Masker](https://medium.com/easyread/menggunakan-artificial-intelligence-untuk-mendeteksi-pemakaian-masker-b0564732c4ee)
 
-### :tv: Sosial Media 
-
+### :tv: Social Media 
 <p align='center'>
     <a href="https://philippurwoko.medium.com/"><img title="Medium" height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
     <a href="https://dev.to/philippurwoko"><img title="Dev.to Community" height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
