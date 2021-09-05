@@ -10,11 +10,9 @@
 
 ### :tv: Social Media 
 <p align='center'>
-    <a href="https://philippurwoko.medium.com/"><img title="Medium" height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
-    <a href="https://dev.to/philippurwoko"><img title="Dev.to Community" height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-	<a href="https://stackoverflow.com/users/11811336/philip-purwoko"><img title="Stackoverflow" height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/PurwokoPhilip"><img title="Twitter" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/philip.purwoko"><img title="Facebook" height="30" src="https://www.flaticon.com/svg/static/icons/svg/124/124010.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/philippurwoko/"><img title="Instagram" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/philip-purwoko-24a635157/"><img title="Linkedin" height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+    <a href="https://philippurwoko.medium.com/"><img title="Medium" height="30" src="https://cdn.icon-icons.com/icons2/1584/PNG/48/3721675-medium_108052.png"></a>&nbsp;&nbsp;
+    <a href="https://dev.to/philippurwoko"><img title="Dev.to Community" height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/48/dev_to_icon_130961.png"></a>&nbsp;&nbsp;
+	<a href="https://stackoverflow.com/users/11811336/philip-purwoko"><img title="Stackoverflow" height="30" src="https://cdn.icon-icons.com/icons2/729/PNG/48/stackoverflow_icon-icons.com_62748.png"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/philippurwoko/"><img title="Instagram" height="30" src="https://cdn.icon-icons.com/icons2/1584/PNG/48/3721672-instagram_108066.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/philip-purwoko-24a635157/"><img title="Linkedin" height="30" src="https://cdn.icon-icons.com/icons2/99/PNG/48/linkedin_socialnetwork_17441.png"></a>
 </p>
