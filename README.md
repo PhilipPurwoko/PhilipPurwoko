@@ -5,7 +5,7 @@ Disiplin dan tanggung jawab adalah sikap yang saya junjung tinggi. Sikap ini pul
 ### :brain: Skills
 Mobile Development (Android & IOS)
 
-## :package: Most Used Framework & Tools
+### :package: Most Used Framework & Tools
 - Flutter (Bloc Pattern)
 - Firebase
 - Agile Development Methodology
@@ -16,7 +16,7 @@ Mobile Development (Android & IOS)
 	- **Gold Medal & Turkish Special Award** (2020) The 6th International Invention Innovation Competition in Canada (ICAN). 
 	- **Gemastik Finalist** (2021) No Dokumen 2276/J3/KM.02.10/2021 di tingkat Dikti (Pendidikan Tinggi)
 	
-## :kite: Learning for Hobbies
+### :kite: Learning for Hobbies
 - Backend Development (API) with Expressjs & Nestjs
 - Python for Artificial Intelligence
 
