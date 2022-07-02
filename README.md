@@ -13,7 +13,7 @@ Mobile Development (Android & IOS)
 
 ### :trophy: Awards
 - Aplikasi android DOVI (Detection Object of Virus Interaction), aplikasi untuk mencegah dan memutus rantai penyebaran COVID-19 dengan fitur radar kepadatan area dan pencatatan riwayat kontak erat. DOVI mendapatkan prestasi sebagai berikut :
-	- **Gold Medal & Turkish Special Award** (2020) The 6th International Invention Innovation Competition in Canada (ICAN). 
+	- [**Gold Medal & Turkish Special Award**](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/sertif-finalist-gemastik.PDF) (2020) The 6th International Invention Innovation Competition in Canada (ICAN). 
 	- **Gemastik Finalist** (2021) No Dokumen 2276/J3/KM.02.10/2021 di tingkat Dikti (Pendidikan Tinggi)
 	
 ### :kite: Learning for Hobbies
