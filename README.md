@@ -16,7 +16,7 @@ Mobile Development (Android & IOS)
 	- **[Gold Medal](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/The%206th%20International%20Invention%20Innovation%20Competition%20in%20Canada%20-%20Gold%20Medal%20Award%20Certificate.jpg) & [Turkish Special Award](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/The%206th%20International%20Invention%20Innovation%20Competition%20in%20Canada%20-%20Turkish%20Special%20Award%20Certificate.pdf)** (2020) [The 6th International Invention Innovation Competition in Canada (ICAN)](https://www.tisias.org/ican-2021.html) 
 	- **[Gemastik Finalist](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/sertif-finalist-gemastik.PDF)** (2021) No Dokumen [2276/J3/KM.02.10/2021](https://esertifikat.pusatprestasinasional.kemdikbud.go.id/) pada perlombaan [Gemastik](https://gemastik.kemdikbud.go.id/) di tingkat Dikti (Pendidikan Tinggi)
 	
-### :kite: Learning for Hobbies
+### :blue_heart: Learning for Hobbies
 - Backend Development (API) with Expressjs & Nestjs
 - Python for Artificial Intelligence
 
