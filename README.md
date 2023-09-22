@@ -2,6 +2,8 @@
 
 Honesty and responsibility are virtues that I highly uphold. This mindset drives me to create effective work management, ensuring timely task completion. I am experienced in working on projects both individually and within group. I work 6 days a week in work-life balance. Struggle for a better life.
 
+Using Gitlab for work https://gitlab.com/PhilipPurwoko
+
 ### :trophy: Awards
 - Android app [DOVI](https://drive.google.com/file/d/16pbCRucud-Klu7qIgaJWdXXauwTCImWK/view?usp=sharing) (Detection Object of Virus Interaction), mobile app to prevent and break the chain of spreading of COVID-19 by implementing crowd radar area and close contact history tracking. [Presentation Video](https://www.youtube.com/watch?v=sVeCx5vAC6k). [Full Paper](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/DOVI_Full%20Paper%20in%20Indonesia_iCAN2021.pdf). Pencapaian DOVI :
 	- **[Gold Medal](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/The%206th%20International%20Invention%20Innovation%20Competition%20in%20Canada%20-%20Gold%20Medal%20Award%20Certificate.jpg) & [Turkish Special Award](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/The%206th%20International%20Invention%20Innovation%20Competition%20in%20Canada%20-%20Turkish%20Special%20Award%20Certificate.pdf)** (2020) [The 6th International Invention Innovation Competition in Canada (ICAN)](https://www.tisias.org/ican-2021.html) 
