@@ -1,6 +1,6 @@
 ### :adult: About Me
 
-Honesty and responsibility are virtues that I highly uphold. This mindset drives me to create effective work management, ensuring timely task completion. I am experienced in working on projects both individually and within group. I work 6 days a week in work-life balance. Struggle for a better life.
+Experienced software developer who has successfully released various projects. I have a strong dedication to the pursuit for a better life. I am able to communicate effectively in teams and reliable working under pressure.
 
 Using Gitlab for work https://gitlab.com/PhilipPurwoko
 
