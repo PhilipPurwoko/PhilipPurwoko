@@ -1,6 +1,6 @@
 ### :adult: About Me
 
-Experienced software developer who has successfully released various projects. I have a strong dedication to the pursuit for a better life. I am able to communicate effectively in teams and reliable working under pressure.
+Experienced software developer who has successfully released various projects. I have a strong dedication to the pursuit for a better life and continuous self-improvement. I am able to communicate effectively in teams and reliable working under pressure.
 
 Using Gitlab for work https://gitlab.com/PhilipPurwoko
 
