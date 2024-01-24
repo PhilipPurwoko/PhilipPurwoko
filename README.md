@@ -1,8 +1,6 @@
 ### :adult: About Me
 
-Experienced software developer who has successfully released various projects. I have a strong dedication to the pursuit for a better life and continuous self-improvement. I am able to communicate effectively in teams and reliable working under pressure.
-
-Using Gitlab for work https://gitlab.com/PhilipPurwoko
+Experienced software developer who has successfully released various projects. Strong dedication to the pursuit for a better life and continuous self-improvement. Effective team communication and reliable working under pressure.
 
 ### :trophy: Awards
 - Android app [DOVI](https://drive.google.com/file/d/16pbCRucud-Klu7qIgaJWdXXauwTCImWK/view?usp=sharing) (Detection Object of Virus Interaction), mobile app to prevent and break the chain of spreading of COVID-19 by implementing crowd radar area and close contact history tracking. [Presentation Video](https://www.youtube.com/watch?v=sVeCx5vAC6k). [Full Paper](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/DOVI_Full%20Paper%20in%20Indonesia_iCAN2021.pdf). Pencapaian DOVI :
