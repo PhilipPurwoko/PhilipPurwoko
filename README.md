@@ -1,6 +1,6 @@
 ### :adult: About Me
 
-Experienced software developer who has successfully released various projects. Strong dedication to the pursuit for a better life and continuous self-improvement. Effective team communication and reliable working under pressure.
+Experienced IT Consultant who has successfully launched various products. Strong dedication to design and build digital infrastructure and provide others a better business opportunity. Ensure products quality by using latest technology, effective team communication and collaboration.
 
 ### :trophy: Awards
 - Android app [DOVI](https://drive.google.com/file/d/16pbCRucud-Klu7qIgaJWdXXauwTCImWK/view?usp=sharing) (Detection Object of Virus Interaction), mobile app to prevent and break the chain of spreading of COVID-19 by implementing crowd radar area and close contact history tracking. [Presentation Video](https://www.youtube.com/watch?v=sVeCx5vAC6k). [Full Paper](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/DOVI_Full%20Paper%20in%20Indonesia_iCAN2021.pdf). Pencapaian DOVI :
