@@ -1,6 +1,6 @@
 ### :adult: About Me
 
-Launched impactful products that help business growth. With product-focused approach, I help business reach their goals. Committed to excellence and virtues, I ensure product quality by implement neccesary technology and encourage seamless team collaboration and communication. I’m dedicated to continuous improvement and crafting impactful solutions that align with each businesses vision and needs.
+Software Engineer with many years of broad experiences. Possess wide skills for modern industry. Proven track record of successfully launched big scale products. With a problem-first approach, I create the best fit software solution for business needs conditionally. Tech stack considered later. Adaptability, efficiency, and seamless team collaboration is the key to survive in competition. I enjoy exploring nature and expressing myself in reading, writing and drawing.
 
 ### :trophy: Awards
 - [DOVI](https://drive.google.com/file/d/16pbCRucud-Klu7qIgaJWdXXauwTCImWK/view?usp=sharing) (Detection Object of Virus Interaction), prevent and break the chain of spreading of COVID-19 by implementing crowd radar area and close contact history tracking. [Presentation Video](https://www.youtube.com/watch?v=sVeCx5vAC6k). [Full Paper](https://github.com/PhilipPurwoko/PhilipPurwoko/blob/master/DOVI_Full%20Paper%20in%20Indonesia_iCAN2021.pdf). Achievements :
